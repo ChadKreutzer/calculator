@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at http://codepen.io/ChadKreutzer/pen/QNqYLd.
+
+ I think this one is a lot of fun. Especially the fact that the code is almost completely jQuery. Fun fact: I had originally just blocked in the buttons with the default bootstrap colors with plans to change them. But I liked the look so much I just kept them as is and changed the background to another bootstrap color to match.
